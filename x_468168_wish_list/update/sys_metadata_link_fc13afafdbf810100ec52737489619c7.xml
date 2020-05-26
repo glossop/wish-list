@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b9f127afdbf810100ec52737489619cc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_468168_wish_list_wish_item">
+    <x_468168_wish_list_wish_item action="INSERT_OR_UPDATE">
+        <display_name>tt (1) - System Administrator</display_name>
+        <item>tt</item>
+        <quantity>1</quantity>
+        <requester display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</requester>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 03:22:50</sys_created_on>
+        <sys_id>b9f127afdbf810100ec52737489619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 03:22:50</sys_updated_on>
+        <url/>
+    </x_468168_wish_list_wish_item>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-22 03:27:32</sys_created_on>
+        <sys_id>fc13afafdbf810100ec52737489619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tt</sys_name>
+        <sys_package display_value=" Wish List" source="x_468168_wish_list">3756faa3dbb810100ec52737489619d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Wish List">3756faa3dbb810100ec52737489619d1</sys_scope>
+        <sys_update_name>sys_metadata_link_fc13afafdbf810100ec52737489619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-22 03:27:32</sys_updated_on>
+        <tablename>x_468168_wish_list_wish_item</tablename>
+    </sys_metadata_link>
+</record_update>
